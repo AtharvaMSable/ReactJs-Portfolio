@@ -31,10 +31,7 @@ const Hero = () => {
             <p className="subtitle max-w-[490px] mx-auto xl:mx-0  ">
               "A motivated third-year Computer Science student with a passion
               for MERN stack development, actively seeking a software
-              engineering internship. Experienced in building full-stack
-              applications and eager to apply skills in a professional setting
-              to contribute to innovative projects and further career
-              development."
+              engineering internship."
             </p>
             {/* Buttons */}
             <div className="flex flex-col gap-y-3 md:flex-row gap-x-3 mx-auto xl:mx-0 mb-12 ">
