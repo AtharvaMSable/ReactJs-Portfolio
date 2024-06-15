@@ -13,7 +13,7 @@ const servicesData = [
     icon: <GanttChartSquare size={72} strokeWidth={0.8} />,
     title: "Web Design",
     description:
-      "As a web designer, I specialize in creating custom online experiences that embody your brand's essence and engage your target audience effectively. Let's collaborate to bring your vision to life on the web.",
+      "I specialize in creating custom online experiences that engage your target audience effectively. Let's collaborate to bring your vision to life on the web.",
   },
   {
     icon: <Blocks size={72} strokeWidth={0.8} />,
