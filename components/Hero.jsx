@@ -29,7 +29,9 @@ const Hero = () => {
             </div>
             <h1 className="h1 mb-4  ">Hello, My Name is Atharva Sable</h1>
             <p className="subtitle max-w-[490px] mx-auto xl:mx-0  ">
-              "A rnship."
+              "A motivated 3rd Year Computer Science student with a passion
+              for MERN stack development, actively seeking a software
+              engineering internship."
             </p>
             {/* Buttons */}
             <div className="flex flex-col gap-y-3 md:flex-row gap-x-3 mx-auto xl:mx-0 mb-12 ">
@@ -37,7 +39,7 @@ const Hero = () => {
                 <Button className="gap-x-2">
                   Contact Me <Send size={18} />
                 </Button>
-              </Link href="https://drive.google.com/file/d/1SSHvhEjpDXONaAqzZOcgNSfmeo5v-6y2/view?usp=drive_link">
+              <Link href="https://drive.google.com/file/d/1SSHvhEjpDXONaAqzZOcgNSfmeo5v-6y2/view?usp=drive_link">
               <Button variant="secondary" className="gap-x-2">
                 Download CV <Download size={18} />
               </Button>
