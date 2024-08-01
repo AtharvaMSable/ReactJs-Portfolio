@@ -6,11 +6,11 @@ import Link from "next/link";
 
 const icons = [
 {
-  path: '/',
+  path: 'https://www.linkedin.com/in/atharva-sable-2ba525250/',
   name: <RiLinkedinFill/>,
 },
 {
-  path: '/',
+  path: 'https://github.com/AtharvaMSable',
   name: <RiGithubFill/>,
 },
 {
