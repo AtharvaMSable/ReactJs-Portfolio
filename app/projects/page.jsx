@@ -41,15 +41,7 @@ const projectData = [
     link: "/",
     github: "https://github.com/AtharvaMSable/Download-Spotify-Playlist",
   },
-  {
-    image: "/work/4.png",
-    category: "Next Js",
-    name: "Spotify Song/Playlist Downloader",
-    description:
-    "Simply Provide the URL of a Spotify Song or Playlist, and the application will download all the songs in the playlist to your desktop.",
-    link: "/",
-    github: "/",
-  },
+
   // {
   //   image: "/work/1.png",
   //   category: "Next Js",
