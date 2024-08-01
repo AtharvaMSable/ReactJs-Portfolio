@@ -29,7 +29,7 @@ const Hero = () => {
             </div>
             <h1 className="h1 mb-4  ">Hello, My Name is Atharva Sable</h1>
             <p className="subtitle max-w-[490px] mx-auto xl:mx-0  ">
-              "A motivated third-year Computer Science student with a passion
+              "A motivated 3rd Year Computer Science student with a passion
               for MERN stack development, actively seeking a software
               engineering internship."
             </p>
