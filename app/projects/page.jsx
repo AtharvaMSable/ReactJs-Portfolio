@@ -7,66 +7,66 @@ const projectData = [
   {
     image: "/work/1.png",
     category: "Full Stack",
-    name: "Nexa Website",
+    name: "Visualizing Paths",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Id, liquam!",
+      "Visualizes pathfinding from a starting point to an ending point using various algorithms.",
     link: "/",
     github: "/",
   },
   {
     image: "/work/2.png",
     category: "React Js",
-    name: "Nova Website",
+    name: "Snake Escape",
     description:
-    "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Id, liquam!",
+    "Developed a game in p5JS where players control the food to evade a snake using pathfinding algorithms.",
     link: "/",
     github: "/",
   },
   {
     image: "/work/3.png",
     category: "Next Js",
-    name: "Evolve Website",
+    name: "Portfolio Website",
     description:
-    "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Id, liquam!",
+    "Developed a portfolio website.",
     link: "/",
     github: "/",
   },
   {
     image: "/work/4.png",
     category: "Next Js",
-    name: "Ecllipse Website",
+    name: "Spotify Song/Playlist Downloader",
     description:
-    "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Id, liquam!",
+    "Simply Provide the URL of a Spotify Song or Playlist, and the application will download all the songs in the playlist to your desktop.",
     link: "/",
     github: "/",
   },
-  {
-    image: "/work/1.png",
-    category: "Next Js",
-    name: "Nova Website",
-    description:
-    "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Id, liquam!",
-    link: "/",
-    github: "/",
-  },
-  {
-    image: "/work/2.png",
-    category: "Next Js",
-    name: "Eternal Wwebsite",
-    description:
-    "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Id, liquam!",
-    link: "/",
-    github: "/",
-  },
-  {
-    image: "/work/3.png",
-    category: "React Js",
-    name: "Whome Website",
-    description:
-    "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Id, liquam!",
-    link: "/",
-    github: "/",
-  },
+  // {
+  //   image: "/work/1.png",
+  //   category: "Next Js",
+  //   name: "Nova Website",
+  //   description:
+  //   "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Id, liquam!",
+  //   link: "/",
+  //   github: "/",
+  // },
+  // {
+  //   image: "/work/2.png",
+  //   category: "Next Js",
+  //   name: "Eternal Wwebsite",
+  //   description:
+  //   "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Id, liquam!",
+  //   link: "/",
+  //   github: "/",
+  // },
+  // {
+  //   image: "/work/3.png",
+  //   category: "React Js",
+  //   name: "Whome Website",
+  //   description:
+  //   "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Id, liquam!",
+  //   link: "/",
+  //   github: "/",
+  // },
 ];
 
 // remove category duplicates

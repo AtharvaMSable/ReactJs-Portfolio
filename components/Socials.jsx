@@ -1,5 +1,5 @@
 "use client";
-
+import React from "react";
 import { RiLinkedinFill, RiGithubFill, RiInstagramFill, RiYoutubeFill } from "react-icons/ri";
 
 import Link from "next/link";
