@@ -27,7 +27,7 @@ const projectData = [
   },
   {
     image: "/work/2.png",
-    category: "Game",
+    category: "P5JS",
     name: "Snake Escape",
     description:
     "Developed a game in p5JS where players control the food to evade a snake using pathfinding algorithms.",
