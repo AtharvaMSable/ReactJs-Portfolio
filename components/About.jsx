@@ -116,7 +116,7 @@ const About = () => {
         <h2 className="section-title mb-8 xl:mb-16 text-center mx-auto">
           About Me
         </h2>
-        <di className="flex flex-col xl:flex-row">
+        <div className="flex flex-col xl:flex-row">
           {/* image */}
           <div className="hidden xl:flex flex-1 relative">
             <DevImg
@@ -310,7 +310,7 @@ const About = () => {
               </div>
             </Tabs>
           </div>
-        </di>
+        </div>
       </div>
     </section>
   );
