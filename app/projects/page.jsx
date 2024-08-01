@@ -41,6 +41,7 @@ const projectData = [
     link: "/",
     github: "https://github.com/AtharvaMSable/Download-Spotify-Playlist",
   },
+
   // {
   //   image: "/work/1.png",
   //   category: "Next Js",
