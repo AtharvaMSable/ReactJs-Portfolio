@@ -44,8 +44,8 @@ const Hero = () => {
               <Button variant="secondary" className="gap-x-2">
                 Download CV <Download size={18} />
               </Button>
-              </Link>
-            </div>
+              </Link> 
+              </div>
             {/* Socials*/}
             <Socials
               containerStyles="flex gap-x-6 mx-auto xl:mx-0"
