@@ -10,7 +10,7 @@ const icons = [
   name: <RiLinkedinFill/>,
 },
 {
-  path: '/',
+  path: 'https://github.com/AtharvaMSable',
   name: <RiGithubFill/>,
 },
 {
