@@ -6,39 +6,39 @@ import ProjectCard from "@/components/ProjectCard";
 const projectData = [
   {
     image: "/work/1.png",
-    category: "Full Stack",
+    category: "P5JS",
     name: "Visualizing Paths",
     description:
       "Visualizes pathfinding from a starting point to an ending point using various algorithms.",
-    link: "/",
-    github: "/",
+    link: "https://visualizing-paths.vercel.app/",
+    github: "https://github.com/AtharvaMSable/Visualizing-Paths",
   },
   {
     image: "/work/2.png",
-    category: "React Js",
+    category: "Game",
     name: "Snake Escape",
     description:
     "Developed a game in p5JS where players control the food to evade a snake using pathfinding algorithms.",
-    link: "/",
-    github: "/",
+    link: "https://snake-escape.vercel.app/",
+    github: "https://github.com/AtharvaMSable/Snake-Escape",
   },
   {
     image: "/work/3.png",
-    category: "Next Js",
+    category: "FrontEnd",
     name: "Portfolio Website",
     description:
     "Developed a portfolio website.",
-    link: "/",
+    link: "https://dev-atharva.netlify.app/",
     github: "/",
   },
   {
     image: "/work/4.png",
-    category: "Next Js",
+    category: "Application",
     name: "Spotify Song/Playlist Downloader",
     description:
     "Simply Provide the URL of a Spotify Song or Playlist, and the application will download all the songs in the playlist to your desktop.",
     link: "/",
-    github: "/",
+    github: "https://github.com/AtharvaMSable/Download-Spotify-Playlist",
   },
   // {
   //   image: "/work/1.png",
