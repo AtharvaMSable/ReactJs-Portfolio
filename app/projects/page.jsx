@@ -7,7 +7,7 @@ import ProjectCard from "@/components/ProjectCard";
 const projectData = [
   {
     image: "/work/1.png",
-    category: "P5JS",
+    category: "JS",
     name: "Visualizing Paths",
     description:
       "Visualizes pathfinding from a starting point to an ending point using various algorithms.",
@@ -16,7 +16,7 @@ const projectData = [
   },
   {
     image: "/work/2.png",
-    category: "P5JS",
+    category: "JS",
     name: "Snake Escape",
     description:
     "Developed a game in p5JS where players control the food to evade a snake using pathfinding algorithms.",
