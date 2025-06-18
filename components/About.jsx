@@ -148,7 +148,7 @@ const About = () => {
                   <div className="text-center xl:text-left">
                     <h3 className="h3 mb-4">Atharva Sable</h3>
                     <p className="subtitle max-w-xl mx-auto xl:mx-0  ">
-                      I'm a third-year student with a solid foundation in Data
+                      I'm a final-year student with a solid foundation in Data
                       Structures and Algorithms. I have successfully completed
                       2+ major projects and am currently seeking a
                       Software Engineering internship.

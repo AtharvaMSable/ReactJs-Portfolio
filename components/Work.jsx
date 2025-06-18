@@ -18,6 +18,15 @@ import ProjectCard from "@/components/ProjectCard";
 
 const projectData = [
   {
+    image: "/work/101.png",
+    category: "MERN Stack",
+    name: "Heavenly -  A vacation rental platform",
+    description:
+    "Developed a full-stack vacation rental platform using the MERN stack, enabling users to book and list properties.",
+    link: "https://wanderlust-jl84.onrender.com/listings",
+    github: "https://github.com/AtharvaMSable/Havenly",
+  },
+  {
     image: "/work/1.png",
     category: "JS",
     name: "Visualizing Paths",
@@ -44,15 +53,7 @@ const projectData = [
     link: "https://dev-atharva.netlify.app/",
     github: "/",
   },
-  {
-    image: "/work/4.png",
-    category: "Application",
-    name: "Spotify Song/Playlist Downloader",
-    description:
-    "Simply Provide the URL of a Spotify Song or Playlist, and the application will download all the songs in the playlist to your desktop.",
-    link: "/",
-    github: "https://github.com/AtharvaMSable/Download-Spotify-Playlist",
-  },
+  
   // {
   //   image: "/work/1.png",
   //   category: "Next Js",
